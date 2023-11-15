@@ -10,3 +10,15 @@ html {
   }
   
   /* Your CSS below here */
+.bob{
+    width: 200px;
+    height: 200px;
+    background-image: radial-gradient(center, black);
+    display: flex;
+    align-items: center;
+    background-color: red;
+    color: white;
+    text-shadow: black;
+    border-radius: 20px;
+    border: 1px solid darkred;
+}
