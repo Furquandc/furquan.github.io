@@ -1,3 +1,10 @@
+/*
+    Name: Furquan Abdurrahman
+    File: main.js
+    Date: 21 November 2023
+    Assignment 4 part 2
+*/
+
 const displayedImage = document.querySelector('.displayed-img');
 const thumbBar = document.querySelector('.thumb-bar');
 
