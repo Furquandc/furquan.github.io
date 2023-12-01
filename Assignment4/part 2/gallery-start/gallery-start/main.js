@@ -7,7 +7,7 @@
 
 const displayedImage = document.querySelector('.displayed-img');
 const thumbBar = document.querySelector('.thumb-bar');
-
+zzzz
 const btn = document.querySelector('button');
 const overlay = document.querySelector('.overlay');
 
@@ -21,7 +21,7 @@ const altText = { pic1: 'Close-up view of an eye', pic2: 'Cool painting', pic3: 
 for (let i = 0; i < imgArray.length; i++) {
     const newImage = document.createElement('img');
     newImage.setAttribute('src', imgArray[i]);
-    newImage.setAttribute('alt', Object.key{i});
+    newImage.setAttribute('alt');
     thumbBar.appendChild(newImage);
 }
 
