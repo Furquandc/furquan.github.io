@@ -1,3 +1,10 @@
+/*
+	Name: Furquan Abdurrahman
+	File: main.js
+	Date: 11 December 2023
+	Assignment 5 JS file.
+*/
+
 // functionality for showing/hiding the comments section
 
 const showHideBtn = document.querySelector('.show-hide');
